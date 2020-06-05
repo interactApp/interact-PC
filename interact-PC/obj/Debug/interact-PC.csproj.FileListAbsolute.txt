@@ -1,0 +1,12 @@
+E:\code\framwork\interact-PC\interact-PC\bin\Debug\interact-PC.exe.config
+E:\code\framwork\interact-PC\interact-PC\bin\Debug\interact-PC.exe
+E:\code\framwork\interact-PC\interact-PC\bin\Debug\interact-PC.pdb
+E:\code\framwork\interact-PC\interact-PC\obj\Debug\interact-PC.csprojAssemblyReference.cache
+E:\code\framwork\interact-PC\interact-PC\obj\Debug\interact_PC.Form1.resources
+E:\code\framwork\interact-PC\interact-PC\obj\Debug\interact_PC.Properties.Resources.resources
+E:\code\framwork\interact-PC\interact-PC\obj\Debug\interact-PC.csproj.GenerateResource.cache
+E:\code\framwork\interact-PC\interact-PC\obj\Debug\interact-PC.csproj.CoreCompileInputs.cache
+E:\code\framwork\interact-PC\interact-PC\obj\Debug\interact-PC.exe
+E:\code\framwork\interact-PC\interact-PC\obj\Debug\interact-PC.pdb
+E:\code\framwork\interact-PC\interact-PC\bin\Debug\QRCoder.dll
+E:\code\framwork\interact-PC\interact-PC\obj\Debug\interact-PC.csproj.CopyComplete
