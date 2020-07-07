@@ -10,3 +10,4 @@ E:\code\framwork\interact-PC\interact-PC\obj\Debug\interact-PC.exe
 E:\code\framwork\interact-PC\interact-PC\obj\Debug\interact-PC.pdb
 E:\code\framwork\interact-PC\interact-PC\bin\Debug\QRCoder.dll
 E:\code\framwork\interact-PC\interact-PC\obj\Debug\interact-PC.csproj.CopyComplete
+E:\code\framwork\interact-PC\interact-PC\bin\Debug\Fleck.dll
